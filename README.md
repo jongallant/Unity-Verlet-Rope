@@ -8,6 +8,6 @@ You can currently use this as an example on how to apply constraints to a verlet
 
 ![Example](https://i.imgur.com/svMTosK.gif)
 
-There is currently a demo here - clicking the mouse will lock the rope in place.
+There is currently a demo here - clicking the mouse will move and snap the first rope node position in place.
 
 http://www.jgallant.com/Roper/
